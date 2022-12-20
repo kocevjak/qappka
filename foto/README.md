@@ -1,5 +1,5 @@
 # FOTO
-Fotky které byly požízeny pomocí dálkové spouště <br/>
+Fotky které byly pořízeny pomocí dálkové spouště <br/>
 Fotoaparát: Nikon D610
 ### DSC_7274.jpg
 f/10, 1/2 s, ISO 100 <br/>

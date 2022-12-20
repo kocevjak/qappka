@@ -1,25 +1,34 @@
 # FOTO
-#### DSC_7274.jpg
+Fotky které byly požízeny pomocí dálkové spouště <br/>
+Fotoaparát: Nikon D610
+### DSC_7274.jpg
 f/10, 1/2 s, ISO 100
 ![alt text](https://github.com/kocevjak/qappka/blob/main/foto/DSC_7274.jpg?raw=true)
 
-##### DSC_7314.jpg
+### DSC_7314.jpg
+f/10, 1/2 s, ISO 100
 ![alt text](https://github.com/kocevjak/qappka/blob/main/foto/DSC_7314.jpg?raw=true)
 
-##### DSC_7321.jpg
+### DSC_7321.jpg
+f/14, 1/2 s, ISO 400
 ![alt text](https://github.com/kocevjak/qappka/blob/main/foto/DSC_7321.jpg?raw=true)
 
-##### DSC_7357.jpg
+### DSC_7357.jpg
+f/14, 1/2 s, ISO 400
 ![alt text](https://github.com/kocevjak/qappka/blob/main/foto/DSC_7357.jpg?raw=true)
 
-##### DSC_7375.jpg
+### DSC_7375.jpg
+f/14, 1/2 s, ISO 400
 ![alt text](https://github.com/kocevjak/qappka/blob/main/foto/DSC_7375.jpg?raw=true)
 
-##### DSC_7387.jpg
+### DSC_7387.jpg
+f/14, 1/2 s, ISO 400
 ![alt text](https://github.com/kocevjak/qappka/blob/main/foto/DSC_7387.jpg?raw=true)
 
-##### DSC_7390.jpg
+### DSC_7390.jpg
+f/14, 1/2 s, ISO 400
 ![alt text](https://github.com/kocevjak/qappka/blob/main/foto/DSC_7390.jpg?raw=true)
 
-##### DSC_7403.jpg
+### DSC_7403.jpg
+f/14, 1/2 s, ISO 400
 ![alt text](https://github.com/kocevjak/qappka/blob/main/foto/DSC_7403.jpg?raw=true)

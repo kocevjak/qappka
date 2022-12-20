@@ -1,4 +1,7 @@
 # qappka
+## schéma zapojení
+<img src="https://github.com/kocevjak/qappka/blob/79aa676ef074b176dab750eec611daa8d9397247/hardware/schematic/Schematic_qappka.png">
+
 ## ESP32
 celé zařízení řídí mikroprocesor ESP32
 ## napájení
@@ -7,5 +10,5 @@ Dálková spoušť je napájena z Li-Pol akumulátoru. Akumulátor je nabíjen z
 Programování mikroprocesoru ESP32 probíhá přes USB konektor. Pro převod USB na UART slouží integrovaný obvod CH340.
 ## komunikace s ventilem
 Qappka s ventilem komunikuje pomocí sběrnice I2C. Ventil se ke Qappce připojuje pomocí konenktoru RJ11.
-<img src="https://github.com/kocevjak/qappka/blob/79aa676ef074b176dab750eec611daa8d9397247/hardware/schematic/Schematic_qappka.png" width=50%>
+
 # ventil

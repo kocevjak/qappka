@@ -1,2 +1,2 @@
 # qappka
-tento projekt vznikl jako maturitní práce na SPŠE v užlabině__
+tento projekt vznikl jako maturitní práce na SPŠE v užlabině<br/>

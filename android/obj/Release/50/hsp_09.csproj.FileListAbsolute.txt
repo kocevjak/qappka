@@ -1,0 +1,6 @@
+D:\skola\maturita\DMP\software\android\git\hsp_09\obj\Release\50\MonoAndroid,Version=v5.0.AssemblyAttributes.cs
+D:\skola\maturita\DMP\software\android\git\hsp_09\obj\Release\50\build.props
+D:\skola\maturita\DMP\software\android\git\hsp_09\obj\Release\50\adb.props
+D:\skola\maturita\DMP\software\android\git\hsp_09\obj\Release\50\hsp_09.csproj.AssemblyReference.cache
+D:\skola\maturita\DMP\software\android\git\hsp_09\obj\Release\50\stamp\_BuildLibraryImportsCache.stamp
+D:\skola\maturita\DMP\software\android\git\hsp_09\obj\Release\50\res.flag

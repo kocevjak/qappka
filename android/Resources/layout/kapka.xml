@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+   <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+   <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="vertical">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Kapka_pocetKapek">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:text="počet kapek:"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:textAlignment="center"/>
+            <EditText
+                android:inputType="numberDecimal"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/setPocetKapek"
+                android:layout_weight="1"
+                android:text="10"
+                android:autoLink="none" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Kapka_meziKapkami">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:text="velikost kapky:"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:textAlignment="center"
+                android:id="@+id/textView1" />
+            <EditText
+                android:inputType="numberDecimal"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/setVelikostKapky"
+                android:layout_weight="1"
+                android:text="5"/>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Kapka_predBleskem">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:text="mezi kapkami:"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:textAlignment="center"
+                android:id="@+id/textView2" />
+            <EditText
+                android:inputType="numberDecimal"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/setMeziKapkami"
+                android:layout_weight="1"
+                android:text="50"/>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Kapka_velikostKapky">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:text="před bleskem:"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:textAlignment="center"
+                android:id="@+id/textView3" />
+            <EditText
+                android:inputType="numberDecimal"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/setPredBleskem"
+                android:layout_weight="1"
+                android:text="100"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout> 

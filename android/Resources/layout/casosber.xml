@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="vertical">
+        
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/casosber_pocetFotek">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:text="počet Fotek"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:textAlignment="center"/>
+            <EditText
+                android:inputType="numberDecimal"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/setPocetFotek"
+                android:layout_weight="1"
+                android:text="100"/>          
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Casosber_meziFotkami">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:text="mezi fotkami:"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:textAlignment="center"/>
+            <EditText
+                android:inputType="numberDecimal"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/setMeziFotkami"
+                android:layout_weight="1"
+                android:text="50"/>          
+        </LinearLayout>
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

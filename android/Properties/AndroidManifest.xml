@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="DMP.Jakub_Kocev.qappka" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="22" android:targetSdkVersion="28" />
+	<application android:allowBackup="true" android:label="@string/app_name" android:roundIcon="@mipmap/ic_launcher_round" android:supportsRtl="true" android:theme="@style/AppTheme" android:icon="@mipmap/water_drop"></application>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.BLUETOOTH" />
+	<uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+</manifest>

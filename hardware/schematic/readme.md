@@ -1,6 +1,6 @@
 # qappka
 ## schéma zapojení
-<img src="https://github.com/kocevjak/qappka/blob/79aa676ef074b176dab750eec611daa8d9397247/hardware/schematic/Schematic_qappka.png">
+<img src="https://github.com/kocevjak/qappka/blob/79aa676ef074b176dab750eec611daa8d9397247/hardware/schematic/Schematic_qappka.png"> neco <img/>
 
 ## ESP32
 celé zařízení řídí mikroprocesor ESP32 od firmy espressif

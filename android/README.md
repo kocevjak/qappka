@@ -1,2 +1,2 @@
 # aplikace pro android
-něco o aplikaci dsahdaksjdhj
+něco o aplikaci

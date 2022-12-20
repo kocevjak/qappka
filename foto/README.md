@@ -4,7 +4,7 @@ Fotoaparát: Nikon D610
 ### DSC_7274.jpg
 f/10, 1/2 s, ISO 100
 
-<img src="foto\DSC_7274.jpg" width=50%>
+<img src="https://github.com/kocevjak/qappka/blob/514278fafe3484f6c48442bf9e8e0415a9fad044/foto/DSC_7274.jpg" width=50%>
 
 ### DSC_7314.jpg
 f/10, 1/2 s, ISO 100

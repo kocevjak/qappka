@@ -13,4 +13,4 @@ Plošný spoj byl navrhnut v programu EasyEDA<br/>
 <img src = "https://github.com/kocevjak/qappka/blob/4d5f6a0214799738297fb588a9d7c4dcb07249aa/hardware/pcb/pcb_qappka_final.png" width=80%>
 
 # ventil
-<img src = "https://github.com/kocevjak/qappka/blob/681f0969d2f6ce9c4baaa108e3c3fc3def753628/hardware/pcb/PCB_valve.png" width=80%>
+<img src = "https://github.com/kocevjak/qappka/blob/681f0969d2f6ce9c4baaa108e3c3fc3def753628/hardware/pcb/PCB_valve.png">

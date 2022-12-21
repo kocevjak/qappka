@@ -12,3 +12,4 @@ Programování mikroprocesoru ESP32 probíhá přes USB konektor. Pro převod US
 Qappka s ventilem komunikuje pomocí sběrnice I2C. Ventil se ke Qappce připojuje pomocí konenktoru RJ11.
 
 # ventil
+<img src="https://github.com/kocevjak/qappka/blob/9ca19c7f4309603359a1b8108686b2ecc7ac5988/hardware/schematic/Schematic_valve.png">

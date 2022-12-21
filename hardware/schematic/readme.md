@@ -5,9 +5,10 @@
 ## ESP32
 celé zařízení řídí mikroprocesor ESP32 od firmy espressif
 ## napájení
-Dálková spoušť je napájena z Li-Pol akumulátoru. Akumulátor je nabíjen z USB přes integrovaný obvod TP4056. Napětí akumulátoru (3 – 4,2 V) je zvednuto na 5 V pomocí step-up měniče MT3608. 5 V slouží k napájení ventilu. 5 V je pomocí lineárního regulátoru snížené na 3.3 V.
+Dálková spoušť je napájena z Li-Pol akumulátoru. Akumulátor je nabíjen z USB přes integrovaný obvod TP4056. Napětí akumulátoru (3 – 4,2 V) je zvednuto na 5 V pomocí step-up měniče MT3608. 5 V slouží k napájení ventilu. 5 V je pomocí lineárního regulátoru AMS117 snížené na 3.3 V.
 ## programování
-Programování mikroprocesoru ESP32 probíhá přes USB konektor. Pro převod USB na UART slouží integrovaný obvod CH340.
+Programování mikroprocesoru ESP32 probíhá přes USB konektor. Pro převod USB na UART slouží integrovaný obvod CH340.<br/>
+Driver pro CH340: http://www.wch-ic.com/
 ## komunikace s ventilem
 Qappka s ventilem komunikuje pomocí sběrnice I2C. Ventil je ke Qappce připojuje pomocí konenktoru RJ11.
 

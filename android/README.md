@@ -1,4 +1,8 @@
 # aplikace pro android
 něco o aplikaci <br/>
 Aplikace komumnikuje s qappkou přes Bluetootoh. Program je psán v jazyce Xamarin<br/><br/>
-<img src = "https://github.com/kocevjak/qappka/blob/2c0354e144af9ca6c098b01d9689e948f5059251/android/foto/start.png" width = "49%">      <img src = "https://github.com/kocevjak/qappka/blob/3394bd46ec2aa4f739163532db612298c08a23bf/android/foto/drop.png" width = "49%"><br/>
+<img src = "https://github.com/kocevjak/qappka/blob/58e1e9f03b3e56825a84214560aa700b067e08d5/foto/android/start.png" width = "49%">      
+<img src = "https://github.com/kocevjak/qappka/blob/58e1e9f03b3e56825a84214560aa700b067e08d5/foto/android/drop.png" width = "49%"><br/>
+
+<img src = "https://github.com/kocevjak/qappka/blob/58e1e9f03b3e56825a84214560aa700b067e08d5/foto/android/timelapse.png" width = "49%">      
+<img src = "https://github.com/kocevjak/qappka/blob/58e1e9f03b3e56825a84214560aa700b067e08d5/foto/android/photo.png" width = "49%"><br/>

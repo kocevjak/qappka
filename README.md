@@ -10,6 +10,7 @@ Ve složce microcontroller je kod pro ESP32 a ATTINY85. Návrh DPS a schéma zap
 
 ## hotové zařízení
 <img src = "https://github.com/kocevjak/qappka/blob/cee5fb25f0c8dc0624182abf7edb4ef6db0016ed/foto/final_qappka.jpg" width=50%>
+<img src = "https://github.com/kocevjak/qappka/blob/6343e497eb2e7442ca5963b05640d53a87c86b3c/foto/final_valve.jpg" width=50%>
 
 ## finální foto
 Fotky které byly pořízeny pomocí dálkové spouště <br/>

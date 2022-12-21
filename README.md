@@ -9,7 +9,7 @@ zařízení je rozdělené na dvě části. Na qappku a na část pro ovládán�
 Ve složce microcontroller je kod pro ESP32 a ATTINY85. Návrh DPS a schéma zapojení je ve složce hardware. Ve složce Win10 je program pro PC a ve složce android je program pro mobilní telefon.
 
 ## hotové zařízení
-<img src = "https://github.com/kocevjak/qappka/blob/cee5fb25f0c8dc0624182abf7edb4ef6db0016ed/foto/final_qappka.jpg">
+<img src = "https://github.com/kocevjak/qappka/blob/cee5fb25f0c8dc0624182abf7edb4ef6db0016ed/foto/final_qappka.jpg" width = "80%">
 
 ## FOTO
 Fotky které byly pořízeny pomocí dálkové spouště <br/>

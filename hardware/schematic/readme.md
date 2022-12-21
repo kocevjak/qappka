@@ -1,6 +1,6 @@
 # qappka
 ## schéma zapojení
-<img src="https://github.com/kocevjak/qappka/blob/79aa676ef074b176dab750eec611daa8d9397247/hardware/schematic/Schematic_qappka.png" width=80%>
+<img src="https://github.com/kocevjak/qappka/blob/79aa676ef074b176dab750eec611daa8d9397247/hardware/schematic/Schematic_qappka.png" width=100%>
 
 ## ESP32
 celé zařízení řídí mikroprocesor ESP32 od firmy espressif
@@ -12,4 +12,4 @@ Programování mikroprocesoru ESP32 probíhá přes USB konektor. Pro převod US
 Qappka s ventilem komunikuje pomocí sběrnice I2C. Ventil se ke Qappce připojuje pomocí konenktoru RJ11.
 
 # ventil
-<img src="https://github.com/kocevjak/qappka/blob/9ca19c7f4309603359a1b8108686b2ecc7ac5988/hardware/schematic/Schematic_valve.png">
+<img src="https://github.com/kocevjak/qappka/blob/9ca19c7f4309603359a1b8108686b2ecc7ac5988/hardware/schematic/Schematic_valve.png" width=100%>

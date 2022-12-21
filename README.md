@@ -11,7 +11,7 @@ Ve složce microcontroller je kod pro ESP32 a ATTINY85. Návrh DPS a schéma zap
 ## hotové zařízení
 <img src = "https://github.com/kocevjak/qappka/blob/cee5fb25f0c8dc0624182abf7edb4ef6db0016ed/foto/final_qappka.jpg" width=50%>
 
-## FOTO
+## finální foto
 Fotky které byly pořízeny pomocí dálkové spouště <br/>
 Fotoaparát: Nikon D610
 ### foto_final_01.jpg

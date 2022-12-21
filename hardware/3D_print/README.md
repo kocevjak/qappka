@@ -1,7 +1,6 @@
 # Qappka
 3D návrh krabičky pro Qappku
-<object data="https://github.com/kocevjak/qappka/blob/9c1226c4b386e71cf4da5dfc2c5acb68b659f187/hardware/3D_print/qappka_main/all_2D.pdf" type="application/pdf" width="100%"> 
-</object>
+<iframe src="https://github.com/kocevjak/qappka/blob/a5f860b56d7aa004c681c2fe4780120180e41f16/hardware/3D_print/qappka_main/all_2D.pdf" width="100%" height="500" frameborder="0" >
 
 # valve
 krabička pro uložení DPS která ovládá ventil

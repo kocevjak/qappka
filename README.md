@@ -8,6 +8,8 @@ zařízení je rozdělené na dvě části. Na qappku a na část pro ovládán�
 
 Ve složce microcontroller je kod pro ESP32 a ATTINY85. Návrh DPS a schéma zapojení je ve složce hardware. Ve složce Win10 je program pro PC a ve složce android je program pro mobilní telefon
 
+## hotové zařízení
+
 
 ## FOTO
 Fotky které byly pořízeny pomocí dálkové spouště <br/>

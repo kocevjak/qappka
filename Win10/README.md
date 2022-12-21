@@ -1,2 +1,10 @@
 # Program pro windows 10
-tady bude nějaký popisek k programu pro windows
+Program ja napsaán jazyce C#. S dálkovou spouští komunikuje přes seriový port.
+<p>
+    <img src="https://github.com/kocevjak/qappka/blob/2731836a5a59afe3f777bbc74cf0510a08be5648/foto/win/win_01.png" width=49%>
+    <img src="https://github.com/kocevjak/qappka/blob/2731836a5a59afe3f777bbc74cf0510a08be5648/foto/win/win_02.png" width=49%>
+</p>
+<p>
+    <img src="https://github.com/kocevjak/qappka/blob/2731836a5a59afe3f777bbc74cf0510a08be5648/foto/win/win_03.png" width=49%>
+    <img src="https://github.com/kocevjak/qappka/blob/2731836a5a59afe3f777bbc74cf0510a08be5648/foto/win/win_04.png" width=49%>
+</p>

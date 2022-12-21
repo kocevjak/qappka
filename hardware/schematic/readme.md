@@ -9,7 +9,15 @@ Dálková spoušť je napájena z Li-Pol akumulátoru. Akumulátor je nabíjen z
 ## programování
 Programování mikroprocesoru ESP32 probíhá přes USB konektor. Pro převod USB na UART slouží integrovaný obvod CH340.
 ## komunikace s ventilem
-Qappka s ventilem komunikuje pomocí sběrnice I2C. Ventil se ke Qappce připojuje pomocí konenktoru RJ11.
+Qappka s ventilem komunikuje pomocí sběrnice I2C. Ventil je ke Qappce připojuje pomocí konenktoru RJ11.
 
 # ventil
 <img src="https://github.com/kocevjak/qappka/blob/9ca19c7f4309603359a1b8108686b2ecc7ac5988/hardware/schematic/Schematic_valve.png" width=100%>
+
+## popis
+Ke spínání a komunikaci s qappkou slouží mokrokontroler ATTINY85, který je napájen s Qappky<br/>
+U návrhu DPS pro spínání ventilu jsem se snažil o univerzálnost. Chtěl jsem abych na stejný DPS mohl zapojit i pro jinou funkci než spínání ventilu (např. spínání fotoaparátu pomocí světla).
+Jak bude DPS fungovat záleží na tom jaké součástky připájím a na nahraném softwaru v ATTINY85.<br/>
+
+## Komunikace s qappkou
+DPS má na sobě dva konektory RJ11 který slouží ke komunikaci přes I2C. Dva konektory má proto jelikož jsem chtěl, aby bylo možné zapojit více modulů za sebe.

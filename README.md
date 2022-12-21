@@ -6,7 +6,7 @@ Zařízení lze ovládat přímo na krabičce pomocí dotykových tlačítek, po
 
 zařízení je rozdělené na dvě části. Na qappku a na část pro ovládání ventilu který tvoří kapku.<br/><br/>
 
-Ve složce microcontroller je kod pro ESP32 a ATTINY85. Návrh DPS a schéma zapojení je ve složce hardware. Ve složce Win10 je program pro PC a ve složce android je program pro mobilní telefon
+Ve složce microcontroller je kod pro ESP32 a ATTINY85. Návrh DPS a schéma zapojení je ve složce hardware. Ve složce Win10 je program pro PC a ve složce android je program pro mobilní telefon.
 
 ## hotové zařízení
 

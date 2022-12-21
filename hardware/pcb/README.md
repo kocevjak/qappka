@@ -20,7 +20,7 @@ Plošný spoj byl navrhnut v programu EasyEDA<br/>
 <img src = "https://github.com/kocevjak/qappka/blob/7d87426487268b5307f2ed399086105c65b1b4ea/hardware/pcb/pcb_valve_3D.png" width=50%>
 
 ### hotová DPS od firmy JLCPCB
-<img src = "https://github.com/kocevjak/qappka/blob/7d87426487268b5307f2ed399086105c65b1b4ea/hardware/pcb/pcb_valve_jlcpcb.png">
+<img src = "https://github.com/kocevjak/qappka/blob/7d87426487268b5307f2ed399086105c65b1b4ea/hardware/pcb/pcb_valve_jlcpcb.png" width=50%>
 
 ### osazený DPS
 <p>

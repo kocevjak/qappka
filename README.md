@@ -14,34 +14,34 @@ Ve složce microcontroller je kod pro ESP32 a ATTINY85. Návrh DPS a schéma zap
 ## FOTO
 Fotky které byly pořízeny pomocí dálkové spouště <br/>
 Fotoaparát: Nikon D610
-### DSC_7274.jpg
+### foto_final_01.jpg
 f/10, 1/2 s, ISO 100 <br/>
 <img src="https://github.com/kocevjak/qappka/blob/3a76f6de3f43336e63aaad7d75c169d248e464c1/foto/foto_final_01.jpg" width=50%>
 
-### DSC_7314.jpg
+### foto_final_02.jpg
 f/10, 1/2 s, ISO 100 <br/>
 <img src="https://github.com/kocevjak/qappka/blob/3a76f6de3f43336e63aaad7d75c169d248e464c1/foto/foto_final_02.jpg" width=50%>
 
-### DSC_7321.jpg
+### foto_final_03.jpg
 f/14, 1/2 s, ISO 400 <br/>
 <img src="https://github.com/kocevjak/qappka/blob/3a76f6de3f43336e63aaad7d75c169d248e464c1/foto/foto_final_03.jpg" width=50%>
 
-### DSC_7357.jpg
+### foto_final_04.jpg
 f/14, 1/2 s, ISO 400 <br/>
 <img src="https://github.com/kocevjak/qappka/blob/3a76f6de3f43336e63aaad7d75c169d248e464c1/foto/foto_final_04.jpg" width=50%>
 
-### DSC_7375.jpg
+### foto_final_05.jpg
 f/14, 1/2 s, ISO 400 <br/>
 <img src="https://github.com/kocevjak/qappka/blob/3a76f6de3f43336e63aaad7d75c169d248e464c1/foto/foto_final_05.jpg" width=50%>
 
-### DSC_7387.jpg 
+### foto_final_06.jpg 
 f/14, 1/2 s, ISO 400 <br/>
 <img src="https://github.com/kocevjak/qappka/blob/3a76f6de3f43336e63aaad7d75c169d248e464c1/foto/foto_final_06.jpg" width=50%>
 
-### DSC_7390.jpg 
+### foto_final_07.jpg 
 f/14, 1/2 s, ISO 400 <br/>
 <img src="https://github.com/kocevjak/qappka/blob/3a76f6de3f43336e63aaad7d75c169d248e464c1/foto/foto_final_07.jpg" width=50%>
 
-### DSC_7403.jpg
+### foto_final_08.jpg
 f/14, 1/2 s, ISO 400 <br/>
 <img src="https://github.com/kocevjak/qappka/blob/3a76f6de3f43336e63aaad7d75c169d248e464c1/foto/foto_final_08.jpg" width=50%>

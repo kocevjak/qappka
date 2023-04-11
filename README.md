@@ -1,5 +1,5 @@
 # qappka
-tento projekt vznikl jako maturitní práce na SPŠE v užlabině a jako semestrální projekt předmětu EKP<br/>
+tento projekt vznikl jako maturitní práce na SPŠE v Užlabině a jako semestrální projekt předmětu EKP na ČVUT FEL<br/>
 Qappka slouží jako dálková spoušť pro fotografování kapky dopadajicí na hladinu vody. Kromě toho qappka lze použít jako klasická dálková spoušť a taky pro fotografování časosběrných videí. <br/><br/>
 
 Zařízení lze ovládat přímo na krabičce pomocí dotykových tlačítek, pomocí mobilní aplikace pro android a z PC.<br/><br/>
